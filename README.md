@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Basic Electrical Engineering Lab
+<b>Discipline | <b>Basic Electrical Engineering 
 :--|:--|
 <b> Lab | <b> Electrical Lab
 <b> Experiment|     <b> Study of Instrumation Amplifier
@@ -35,5 +35,5 @@ theoretical calculation.<br>
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Adarsh singh | Student | Information Technology | Rajkiya Engineering College Banda | adarshsingh2508@gmail.com
+1 | Adarsh Singh | Student | Information Technology | Rajkiya Engineering College Banda | adarshsingh2508@gmail.com
 2 | Dr. Ashutosh Tiwari | Faculty | Applied Sciences and Humanities | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
