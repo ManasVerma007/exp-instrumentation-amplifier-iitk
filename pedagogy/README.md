@@ -5,13 +5,13 @@
 
 
 <br>
-<b> Experiment : Name of the experiment	 <a name="top"></a> <br>
+<b> Experiment :Study of Instrumentation Amplifiers <a name="top"></a> <br>
 </p>
 
-<b>Discipline | Fill your discipline name here <b> 
+<b>Discipline | Basic Electrical Engineering  <b> 
 :--|:--|
-<b> Lab | Fill your lab name here<b> 
-<b> Experiment|  Fill your experiment name here   <b> 
+<b> Lab | Electrical Engineering Lab<b> 
+<b> Experiment|  Study of Instrumentation Amplifiers   <b> 
 
 
 <h4> [1. Focus Area](#LO)
@@ -81,5 +81,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.|  Simulator will allow student<br> to make circuit connections and will alert<br> him in case of wrong connections made | Student will be able to select  <br>the voltage generator(1mV 1.0kHz)  |To initiate the simulator    
+2.|Simulator will change into transient mode.   | Student will select the transient mode.  ![image](https://user-images.githubusercontent.com/99191853/217332743-4322b2b9-1467-4b80-9b56-ad00bc89206a.png)|To display the input and output waveforms.
+3.|Simulator will start display and stop display time points|Student will able to analyse the input and output waveforms.  ![image](https://user-images.githubusercontent.com/99191853/217333244-2bda74e7-38ed-4b37-a66f-a1fe3facc89f.png)|To analyse the waveforms 
