@@ -22,5 +22,22 @@ The amplifier’s gain is referred to as the factor by which the amplifier ampli
 <h3>Instrumentation Amplifier Design</h3>
 An instrumentation amplifier is a combination of 3 typical amplifiers.<br> They are connected in a specific order to build an instrumentation amplifier. <br>We can segregate the instrument amplifier design into two-part.<br>
 The first part is “Two input and two output”. <br>Two standard operational amplifiers are connected, as shown in the amplifier circuit figure.<br> Both of them are provided with negative feedback as it stabilizes the circuit more.<br> The output of both the amplifier is connected with three resistors.<br>
-The second part is a basic “Differential Amplifier”.<br>  The output of both the previous amplifier acts as input for the last amplifier.<br> Outputs are connected with two identical valued resistors with the amplifier. 
+The second part is a basic “Differential Amplifier”.<br>  The output of both the previous amplifier acts as input for the last amplifier.<br> Outputs are connected with two identical valued resistors with the amplifier. <br>
+The positive section is grounded, and negative feedback is associated with the negative terminal and the o/p of this op-amp <br>is the final output of the instrument amplifier.
+This intimidating circuit is constructed from a buffered differential amplifier stage with <br>three new resistors linking the two buffer circuits together.
+
+![image](https://user-images.githubusercontent.com/99191853/217320974-9426df28-c306-446b-987a-b96214056f67.png)
+
+Consider all resistors to be of equal value except for Rgain.<br>The negative feedback of the upper-left op-amp causes the voltage at point 1 (top of Rgain) to be equal to V1.<br> Likewise, the voltage at point 2 (bottom of Rgain) is held to a value equal to V2.<br> This establishes a voltage drop across Rgain equal to the voltage difference between V1 and V2. <br>That voltage drop causes a current through Rgain, and since the feedback loops of the two input op-amps draw no current, that<br> same amount of current through Rgain must be going through the two “R” resistors above and below it.<br>This produces a voltage drop between points 3 and 4 equal to:
+
+![image](https://user-images.githubusercontent.com/99191853/217321415-372f8147-16df-485b-b65b-4c5ccd2c9bc1.png)
+
+The regular differential amplifier on the right-hand side of the circuit then takes this voltage drop<br> between points 3 and 4 and amplifies it by a gain of 1 (assuming again that all “R” resistors are of equal value)<br>
+<h3>Instrumentation Amplifier Characteristics</h3>
+Let us look at the characteristics of the instrumentation amplifiers at a glance.<br>
+•	Instrumentation Amplifiers are Differential Amplifiers made up of three op-amps.<br>
+•	It provides a higher open-loop gain than typical op-amps.<br>
+•	It has higher CMRR, higher input impedance, low offset voltages, lower output impedances, making it close to the ideal op-amp.<br>
+•	Instrumentation amplifiers provide higher accuracy and precision when used in testing and measuring.<br>
+•	Instrumentation amplifiers are available in ICs for commercial purposes.<br>
 
