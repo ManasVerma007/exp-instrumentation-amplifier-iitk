@@ -81,6 +81,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  Simulator will allow student<br> to make circuit connections and will alert<br> him in case of wrong connections made | Student will be able to select  <br>the voltage generator(1mV 1.0kHz)  |To initiate the simulator    
-2.|Simulator will change into transient mode.   | Student will select the transient mode.  ![image](https://user-images.githubusercontent.com/99191853/217332743-4322b2b9-1467-4b80-9b56-ad00bc89206a.png)|To display the input and output waveforms.
-3.|Simulator will start display and stop display time points|Student will able to analyse the input and output waveforms.  ![image](https://user-images.githubusercontent.com/99191853/217333244-2bda74e7-38ed-4b37-a66f-a1fe3facc89f.png)|To analyse the waveforms 
+1.|  Simulator will open the circuit diagram<br>of Instrumentation Amplifier | Student will initiate the simulator| To aware the connection diagram of <br> Instrumentation amplifier.    
+2.|Simulator will allow to change supply voltage from AC or DC voltage| Student will select the button of voltage<br> type from input section |To aware the type of supply <br>from AC or DC voltage.
+3.|Simulator will show the value of V1 and V2 <br>at the node of supply value |Student will allow to change the supply voltage of V1 and V2 <br>by clicking the mouse button on slide bar |to obtain the voltage of V1 and V2 .
+4.|Simulator will give the value of R1, R2 and R3 and shown on the diagram| Student will change the value of resistor<br>by clicking 
