@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What are the characteristics of an instrumentation amplifier",
+      "question": "1. What are the characteristics of an instrumentation amplifier",
       "answers": {
         "a": "High input resistance",
         "b": "Low noise",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What instrument is used to amplify output signal of transducer",
+      "question": "2. What instrument is used to amplify output signal of transducer",
       "answers": {
         "a": "What instrument is used to amplify output signal of transducer",
         "b": "Instrumentation amplifier",
