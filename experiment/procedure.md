@@ -6,5 +6,5 @@
 5. Click on the graph button to plot th graph. <br> 
 6. fill the table given below.<br> 
 7. Repeat the experiment for another type of voltage by clicking the input type of voltage .<br> 
-8. Click on the print button to obtin the all data.
+8. Click on the print button to obtain  all the  data.
 
